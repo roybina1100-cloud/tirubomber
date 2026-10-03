@@ -21,11 +21,12 @@ from telebot import types
 BOT_TOKEN       = "8737280815:AAGP0qwkwwQcrKlOfGPbY3yiU1ltU4oB0LA"
 MASTER_ADMIN_ID = int(os.getenv("MASTER_ADMIN_ID", "8282279620"))
 OWNER_NAME      = "TIRU OWNER"
-ADMIN_USERNAME  = "SR_GAMER_PRO"
-ADMIN_HANDLE    = "@SR_GAMER_PRO"
+ADMIN_USERNAME  = "@TIRU_OFFICIAL"
+ADMIN_HANDLE    = "@TIRU_OFFICIAL"
 
 CHANNEL_1       = -1003857354965
-CHANNEL_1_LINK  = "https://t.me/srgamerpro"
+CHANNEL_1_LINK  = "https://t.me/AMIT_MODZ_OFC"
+CHANNEL_2_LINK https://t.me/srgamerpro
 
 bot    = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 DB_PATH = "free_bot.db"

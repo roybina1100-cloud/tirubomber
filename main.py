@@ -623,7 +623,7 @@ def welcome_text(user, frame="⚡"):
     chat_id = user.id
     return f"""{frame} ━━━━━━━━━━━━━━━━━━━ {frame}
 🌐 <b>𝐖𝐄𝐋𝐂𝐎𝐌𝐄 𝐓𝐎 ~
-SR GAMER PRO CALL BOMBER BOT</b> ⚡️
+TIRU GAMER PRO CALL BOMBER BOT</b> ⚡️
 {frame} ━━━━━━━━━━━━━━━━━━━ {frame}
 
 ╭───────────────➤

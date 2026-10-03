@@ -26,7 +26,6 @@ ADMIN_HANDLE    = "@TIRU_OFFICIAL"
 
 CHANNEL_1       = -1003857354965
 CHANNEL_1_LINK  = "https://t.me/AMIT_MODZ_OFC"
-CHANNEL_2_LINK https://t.me/srgamerpro
 
 bot    = telebot.TeleBot(BOT_TOKEN, parse_mode="HTML")
 DB_PATH = "free_bot.db"

@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-# SR GAMER OWNER x LAKSHHexe - ULTIMATE 0 ERROR
+# TIRU GAMER OWNER x  - ULTIMATE 0 ERROR
 # ANIMATED WELCOME | UNLIMITED SPEED | 0 ERRORS
 
 import os
@@ -627,13 +627,13 @@ SR GAMER PRO CALL BOMBER BOT</b> ⚡️
 {frame} ━━━━━━━━━━━━━━━━━━━ {frame}
 
 ╭───────────────➤
-💠 <b>𝐌𝐘 𝐍𝐀𝐌𝐄 :</b> SR GAMER
-🐿️👑 <b>𝐎𝐖𝐍𝐄𝐑 :</b> SR GAMER OWNER
+💠 <b>𝐌𝐘 𝐍𝐀𝐌𝐄 :</b> TIRU
+🐿️👑 <b>𝐎𝐖𝐍𝐄𝐑 :</b> TIRU GAMER OWNER
 🛰️ <b>𝐒𝐓𝐀𝐓𝐔𝐒 :</b> 🟢 ONLINE
 ╰───────────────➤
 ❤️‍🩹 <b>!~ WELCOME ❤️‍🩹</b>
 🎮 <b>𝐍𝐄𝐖 𝐌𝐄𝐌𝐁𝐄𝐑 𝐈𝐍𝐅𝐎 ⤵️</b>
-🔴 <b>Name :</b> SR GAMER OWNER
+🔴 <b>Name :</b> TIRU GAMER OWNER
 🟠 <b>Username :</b> {username}
 🟡 <b>Chat ID :</b> <code>{chat_id}</code>
 🟢 <b>Rank :</b> 👑 OWNER TIER
